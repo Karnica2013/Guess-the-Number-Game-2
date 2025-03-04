@@ -14,7 +14,7 @@ function checkAnswer(){
    else{
     document.getElementById("p2").innerHTML="  <p>Lower! Try Again</p>"
    }
-   console.log("rn")
+   console.log(rn)
 }
 function resetGame(){
     window.location="index.html"
